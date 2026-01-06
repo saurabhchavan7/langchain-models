@@ -8,7 +8,7 @@ The focus is on working directly with models, understanding their behavior, and 
 
 ## Current Work
 
-currently working on LangChain’s Models layer.
+Currently working on LangChain’s Models layer.
 
 This includes language models, chat models, and embedding models across different providers, with attention to inputs, outputs, limitations, and abstraction boundaries.
 
