@@ -12,11 +12,7 @@ currently working on LangChain’s Models layer.
 
 This includes language models, chat models, and embedding models across different providers, with attention to inputs, outputs, limitations, and abstraction boundaries.
 
----
-
-## Going Forward
-
-Upcoming additions will include:
+Moving forward:
 - Prompt handling
 - Chains and multi-step flows
 - Retrieval-based systems
